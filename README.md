@@ -53,7 +53,7 @@ python train.py --de_type derain dehaze
 
 ## Testing
 
-After preparing the testing data in ```test/``` directory, place the mode checkpoint file in the ```ckpt``` directory. The pre-trained model can be downloaded [here](https://drive.google.com/drive/folders/11fPxcO0eEi2KmktqzEFfCTcfopRPgMI1). To perform the evaluation, use
+After preparing the testing data in ```test/``` directory, place the mode checkpoint file in the ```ckpt``` directory. The pre-trained model can be downloaded [here](https://drive.google.com/drive/folders/1_XX1kFSsnV6u9BfjysgR05cLKUiNKTyF). To perform the evaluation, use
 ```
 python test.py --mode {n}
 ```
@@ -74,7 +74,7 @@ Performance results of the Expert-Restore framework trained under the all-in-one
 <img src = "figs/three_degradation.jpg"> 
 </details><br>
 
-The visual results can be downloaded [here](https://drive.google.com/drive/folders/1jXMWMHlMQy7AY723OTmjXfT-oi-nj7YO).
+The visual results can be downloaded [here](https://drive.google.com/drive/folders/1OsaDzqrbED2SmZx_cr54xiByI_6sM0B).
 
 ## Citation
 
