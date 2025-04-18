@@ -74,7 +74,7 @@ Performance results of the Expert-Restore framework trained under the all-in-one
 <img src = "figs/three_degradation.jpg"> 
 </details><br>
 
-The visual results can be downloaded [here](https://drive.google.com/drive/folders/1OsaDzqrbED2SmZx_cr54xiByI_6sM0B).
+The visual results can be downloaded [here](https://drive.google.com/drive/folders/1OsaDzqrbED2SmZx_cr54xiByI_6sM0B_).
 
 ## Citation
 
